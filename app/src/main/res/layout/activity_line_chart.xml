@@ -17,7 +17,7 @@
         android:layout_marginLeft="10dp"
         android:id="@+id/heading"
         android:textSize="24sp"
-        android:text="Stock Value over time\n2016-01-01 to 2016-01-15"
+        android:text="@string/stock_value_label"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 

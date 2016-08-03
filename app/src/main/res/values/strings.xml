@@ -14,4 +14,6 @@
     <string name="title_activity_charts" translatable="false">Charts</string>
     <string name="add_stocks_button_description">Press this button to add stocks.</string>
     <string name="stock_value_over_time">Press here to see stock value over time.</string>
+    <string name="toast_message_saved">This stock is already saved!</string>
+    <string name="stock_value_label">Stock Value over time\n2016-01-01 to 2016-01-15</string>
 </resources>
