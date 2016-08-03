@@ -19,7 +19,7 @@
             android:gravity="center"
             android:textSize="24sp"
             android:padding="10dp"
-            android:text="Stock Hawk Widget"
+            android:text="Stock Prices"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
@@ -38,6 +38,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center"
+
             android:textColor="#ffffff"
             android:textStyle="bold"
             android:text="No Stocks to View."
