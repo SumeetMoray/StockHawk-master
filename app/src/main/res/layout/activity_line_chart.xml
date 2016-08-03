@@ -6,7 +6,7 @@
     android:paddingBottom="@dimen/activity_vertical_margin"
 
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.sam_chordas.android.stockhawk.charts.Charts">
+    tools:context="com.sam_chordas.android.stockhawk.unusedCode.Charts">
 
     <!--
     android:paddingLeft="@dimen/activity_horizontal_margin"

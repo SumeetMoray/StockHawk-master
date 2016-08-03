@@ -1,4 +1,4 @@
-package com.sam_chordas.android.stockhawk.charts;
+package com.sam_chordas.android.stockhawk.unusedCode;
 
 import android.os.Bundle;
 import android.app.Activity;

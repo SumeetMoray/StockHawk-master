@@ -45,7 +45,7 @@
             android:exported="false" />
 
         <activity
-            android:name=".charts.graphChart"
+            android:name=".unusedCode.graphChart"
             android:label="@string/title_activity_graph_chart"
             android:parentActivityName=".ui.MyStocksActivity">
             <meta-data
@@ -54,7 +54,7 @@
         </activity>
 
         <activity
-            android:name=".charts.Charts"
+            android:name=".unusedCode.Charts"
             android:label="@string/title_activity_charts"
             android:parentActivityName=".ui.MyStocksActivity">
             <meta-data
